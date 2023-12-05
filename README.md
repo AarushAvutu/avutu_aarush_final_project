@@ -5,7 +5,18 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+An paragraph about your project and overview of use.
+
+Multiplayer game
+3D
+objective: find treasure
+platformer
+powerups
+mobs?
+everytime finds treasure at level theif comes and takes to next lvl?
+last lvl defeat theif
+infinte mode goes on and generates plats forever
+
 
 ## Getting Started
 
