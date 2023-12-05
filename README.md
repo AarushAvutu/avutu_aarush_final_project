@@ -21,7 +21,8 @@ infinte mode goes on and generates plats forever
 ## Getting Started
 
 ### Dependencies
-
+ursina libraries random 
+MacOs
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 
@@ -49,8 +50,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Aarush Avutu
 
 ## Version History
 
