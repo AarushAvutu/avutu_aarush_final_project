@@ -61,13 +61,17 @@ ex. Aarush Avutu
     * Initial Release
 
 ## License
-
+MIT License
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
+<<<<<<< Updated upstream
 * [AtiByte](https://www.youtube.com/playlist?list=PL1P11yPQAo7oEAGuPcqMnn9ZWHLWP3-Lc)
+=======
+ex:
+>>>>>>> Stashed changes
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [dbader](https://github.com/dbader/readme-template)
