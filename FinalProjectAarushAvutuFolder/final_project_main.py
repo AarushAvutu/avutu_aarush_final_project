@@ -50,6 +50,7 @@ from direct.showbase.ShowBase import ShowBase
 from direct.actor.Actor import Actor
 from direct.interval.IntervalGlobal import Sequence
 from panda3d.core import Point3
+import os
 
 class MultiplayerGame(ShowBase):
     def __init__(self):
