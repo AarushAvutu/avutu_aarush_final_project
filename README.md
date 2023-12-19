@@ -7,24 +7,22 @@ Simple overview of use/purpose.
 
 An paragraph about your project and overview of use.
 
-Multiplayer game
-3D
+3D Maze Walkthrough
 objective: find treasure
-platformer
-powerups
-mobs?
+Improvements
+multilevel
+multiplayer (splitscreen)?
 everytime finds treasure at level theif comes and takes to next lvl?
 last lvl defeat theif
-infinte mode goes on and generates plats forever
+infinte mode goes on and generates mazes forever
 
 
 ## Getting Started
 
 ### Dependencies
-ursina libraries random 
+Panda3D libraries  
+Dependant
 MacOs
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
 
 ### Installing
 
@@ -43,7 +41,7 @@ code blocks for commands
 
 Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+WASD controls, space jump, esc to leave game, mouse to look around
 ```
 
 ## Authors
@@ -54,9 +52,6 @@ ex. Aarush Avutu
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
 
@@ -69,6 +64,7 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 Inspiration, code snippets, etc.
 <<<<<<< Updated upstream
 * [AtiByte](https://www.youtube.com/playlist?list=PL1P11yPQAo7oEAGuPcqMnn9ZWHLWP3-Lc)
+* [Panda3d Website](https://docs.panda3d.org/1.10/python/index)
 =======
 ex:
 >>>>>>> Stashed changes
